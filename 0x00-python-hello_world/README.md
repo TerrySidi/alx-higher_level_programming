@@ -1,1 +1,3 @@
-We are about to venture into a world of python spiced up with C
+#Python Hello World!
+We are about to get ito a world of python with a little bit of C!
+
